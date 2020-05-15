@@ -1,0 +1,13 @@
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\bin\Debug\coronewsApp.exe.config
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\bin\Debug\coronewsApp.exe
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\bin\Debug\coronewsApp.pdb
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\obj\Debug\coronewsApp.csprojAssemblyReference.cache
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\obj\Debug\coronewsApp.Form1.resources
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\obj\Debug\coronewsApp.Properties.Resources.resources
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\obj\Debug\coronewsApp.csproj.GenerateResource.cache
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\obj\Debug\coronewsApp.csproj.CoreCompileInputs.cache
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\obj\Debug\coronewsApp.csproj.CopyComplete
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\obj\Debug\coronewsApp.exe
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\obj\Debug\coronewsApp.pdb
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nabhan\source\repos\coronewsApp\coronewsApp\bin\Debug\Newtonsoft.Json.xml
